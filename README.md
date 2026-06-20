@@ -2,7 +2,6 @@
 # 🚗 CarRepairShop
 
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Status](https://img.shields.io/badge/status-stable-success)]()
 
 > A production‑ready MySQL database for managing car repair shop operations — customers, vehicles, spare parts, repair orders, invoices, payments, and automated inventory/billing logic.
@@ -79,3 +78,10 @@ The `tests.sql` script checks:
 
 ---
 
+# 🎓 Academic Context
+
+Developed as part of a **Database course**
+
+📅 Spring 2026
+
+---
